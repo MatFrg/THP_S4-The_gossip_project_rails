@@ -6,6 +6,7 @@ Welcome to our Gossip Application!
 
 ```bash
 bundle install
+rails db:migrate #still no idea why
 rails db:seed #To create a random database
 rails c #To browse the database
 ```
